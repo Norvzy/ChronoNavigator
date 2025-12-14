@@ -1,0 +1,1 @@
+ChronoNavigator is a single-page web application that enables users to search news by topic, location, and time range, and generates concise summaries using an LLM powered by the Google Gemini API. The application features a responsive UI and is deployed on AWS EC2.
